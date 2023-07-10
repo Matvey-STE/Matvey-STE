@@ -2,7 +2,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Matvey-STE&show_icons=true&theme=radical&hide=issues"/>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matvey-STE&layout=compact"/>
-
 <br clear="both">
 
 ## Tech Stack
@@ -10,13 +9,11 @@
 <img align="left" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img align="left" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-
 <br clear="both">
 
 ## Databases
 <img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <br clear="both">
 
 ## Environment & Tools
@@ -26,7 +23,13 @@
 <img align="left" alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
 <img align="left" alt="Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
 <img align="left" alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<br clear="both">
+<br><br>
 
+<img align="left" alt="LeedCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+<br clear="both">
+
+<img align="center" alt="Leetcode" src="https://leetcard.jacoblin.cool/matveyvs1987"/>
 <br clear="both">
 
 ## 🔭 I’m currently working on [ChitChatBot](https://github.com/Matvey-STE/ChitChatBot) Telegram Bot
