@@ -1,4 +1,4 @@
-# Hi there 👋. I'm Matvei.
+# Hi there 👋 I'm Matvei.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Matvey-STE&show_icons=true&theme=radical&hide=issues"/>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matvey-STE&layout=compact"/>
@@ -37,11 +37,11 @@
 
 <br>
 
-## 👯 I would like to be a part of a team where I can confirm my skills so I’m looking to collaborate on any project that might interest me.
+## 👯 I would like to be a part of a team where I can prove my skills so I’m looking to collaborate on any project that might interest me.
 
 <br>
 
-## ⚡ Fun fact: Everyone tells that you could be whatever you want to be, but they don't tell you if you are obsessed about being a SOFTWARE DEVELOPER you should be prepared of constant feeling knowing NOTHING ABOUT IT(Information Technology).
+## ⚡ Fun fact: Everyone says that you could be whatever you want to be, but they don't tell you that if you want to be a SOFTWARE DEVELOPER you should be prepared to constantly feel that you DON’T KNOW A THING ABOUT IT(Information Technology).
 
 <!--
 **Matvey-STE/Matvey-STE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
