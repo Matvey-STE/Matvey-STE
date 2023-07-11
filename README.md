@@ -4,6 +4,8 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matvey-STE&layout=compact"/>
 <br clear="both">
 
+---
+
 ## Tech Stack
 <img align="left" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="left" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -26,13 +28,16 @@
 <br>
 <img align="left" alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 <br clear="both">
-<br><br>
+
+---
 
 <img align="left" alt="LeedCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 <br clear="both">
 
 <img align="center" alt="Leetcode" src="https://leetcard.jacoblin.cool/matveyvs1987"/>
 <br clear="both">
+
+---
 
 ## 🔭 I’m currently working on [ChitChatBot](https://github.com/Matvey-STE/ChitChatBot) Telegram Bot
 
