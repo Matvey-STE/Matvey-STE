@@ -34,11 +34,10 @@
 <img align="left" alt="LeedCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 <br clear="both">
 
-<img align="center" alt="Leetcode" src="https://leetcard.jacoblin.cool/matveyvs1987"/>
+<img align="center" alt="Leetcode" src="https://leetcard.jacoblin.cool/matveyvs1987?ext=heatmap"/>
 <br clear="both">
 
 ---
-
 ## 🔭 I’m currently working on [ChitChatBot](https://github.com/Matvey-STE/ChitChatBot) Telegram Bot
 
 <br>
