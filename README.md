@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Matvei.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Matvey-STE&show_icons=true&theme=radical&hide=issues"/>
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Matvey-STE&show_icons=true&theme=radical&hide=issues"/>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matvey-STE&layout=compact"/>
 <br clear="both">
-
+-->
 ---
 
 ## Tech Stack
