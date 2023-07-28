@@ -2,7 +2,6 @@
 ---
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Matvey-STE&hide=prs"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matvey-STE&layout=compact&langs_count=8&card_width=300"/>
 <br clear="both">
 
 ---
@@ -25,6 +24,7 @@
 <img align="left" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img align="left" alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
 <img align="left" alt="Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+
 <br clear="both">
 <br>
 <img align="left" alt="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
