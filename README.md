@@ -43,7 +43,7 @@
 
 <br>
 
-## 🌱 I’m currently learning everything that can help me to become a real🤘 SOFTWARE DEVELOPER
+## 🌱 I’m currently learning everything that can help me to become a real SOFTWARE DEVELOPER
 
 <br>
 
