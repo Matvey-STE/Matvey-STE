@@ -39,11 +39,6 @@
 <br clear="both">
 
 ---
-## 🔭 I’m currently working on [ChitChatBot](https://github.com/Matvey-STE/ChitChatBot) Telegram Bot
-
-<br>
-
-## 🌱 I’m currently learning everything that can help me to become a real SOFTWARE DEVELOPER
 
 <br>
 
