@@ -1,10 +1,6 @@
 # Hi there 👋 I'm Matvei.
 ---
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Matvey-STE&hide=prs"/>
-<br clear="both">
-
----
 
 ## Tech Stack
 <img align="left" alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
